@@ -1,4 +1,4 @@
-# LatihanVCS
+#LatihanVCS
 
 - Penjelasan Cara Menggunakan GIT Beserta Langkah-Langkahnya -
 
@@ -7,6 +7,7 @@
 
 - Masuk ke Web GitHub
 ![img.1] (Screenshot/Gambar1.png)
+
 
 - jika sudah memuliki akun, silahkan langsung sig in lalu masukkan username dan password. tapi, jika belum memiliki akun, silahkan klik "creat an account"
 ![img.2] (Screenshot/Gambar2.png)
@@ -30,13 +31,21 @@ git config --global user.name "liskaniaaprilia"
 git config --global user.email "liskaniaaprilia172004"
 
 - Pada LatihanVCS tadi, akan dibuat menjadi repository dengan cara : 
-! [img.8] (Screenshot/Gambar8.png)
+![img.8] (Screenshot/Gambar8.png)
 
-- Setelah itu, buat sebuah file README.md di dalam file Repository yang dibuat tadi
-! [img.9] (Screenshot/Gambar9.png)
+4. Setelah itu, buat sebuah file README.md di dalam file Repository yang dibuat tadi
+![img.9] (Screenshot/Gambar9.png)
 
+5. cek file README.md yang sudah dibuat tadi apakah sudah dicommit atau belum. caranya adalah sebagai berikut :
+![img.10] (Screenshot/Gambar10.png)
 
+- git add README.md dan git commit file README.md tersebut
+![img.11] (Screenshot/Gambar11.png)
 
+6. Cara menambahkan remote server pada git dan mengirim file yang sudah di ubah ke GitHub Repository
+![img.12] (Screenshot/Gambar12.png)
 
+- Proses Menambahkan File Ke Dalam Sebuah README.md menggunakan Visual Code -
 
-
+![img.13] (Screenshot/Gambar13.png)
+![img.14] (Screenshot/Gambar14.png)
