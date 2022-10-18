@@ -6,4 +6,4 @@
 2. Masuk ke web GitHub. agar GIT bisa terhubung dengan GitHub, maka harus membuat akun terlebih dahulu
 
 - Masuk ke web GitHub
-![img.1] (Screenshot/Gambar1.png
+<img src="Gambar1.png>
